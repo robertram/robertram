@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! Im Robert Ramirez. 
+Im a web developer working mainly on ReactJS projects. 
+
+## Get in Contact
+Mail: [rsft6000@gmail.com](mailto:rsft6000@gmail.com)
 
 <!--
 **robertram/robertram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
