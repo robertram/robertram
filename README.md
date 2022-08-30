@@ -1,5 +1,7 @@
-### Hi! Im Robert Ramirez. 
-Im a web developer working mainly on ReactJS projects. 
+### Hi! I’m Robert Ramirez
+I’m a full stack developer working on web3 projects. 
+
+🌐 [Portfolio](https://robertramdev.com/) 
 
 ## Get in Contact
 Mail: [rsft6000@gmail.com](mailto:rsft6000@gmail.com)
