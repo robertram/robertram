@@ -1,5 +1,5 @@
 ### Hi! I’m Robert Ramirez
-I’m a full stack developer working on web3 projects. 
+I’m a web3 developer and Founder of [Hallos](https://www.hallos.io/en) NFT Ticketing platform. 
 
 🌐 [Portfolio](https://robertramdev.com/) 
 
